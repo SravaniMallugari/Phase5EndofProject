@@ -1,0 +1,12 @@
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\bin\Debug\Dal_lib.dll.config
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\bin\Debug\Dal_lib.dll
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\bin\Debug\Dal_lib.pdb
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\bin\Debug\EntityFramework.dll
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\bin\Debug\EntityFramework.xml
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\obj\Debug\Dal_lib.csproj.AssemblyReference.cache
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\obj\Debug\Dal_lib.csproj.CoreCompileInputs.cache
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\obj\Debug\Dal_lib.csproj.CopyComplete
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\obj\Debug\Dal_lib.dll
+C:\Users\Texas\Downloads\Blog-Tracker-Application-master\Blog-Tracker-Application-master\Dal_lib\obj\Debug\Dal_lib.pdb
